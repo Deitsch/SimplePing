@@ -1,6 +1,6 @@
 # SimplePing
 
-The Package simple wraps [SimplePing](https://developer.apple.com/library/mac/samplecode/SimplePing/Introduction/Intro.html) into an SPM.
+The Package simply wraps [SimplePing](https://developer.apple.com/library/mac/samplecode/SimplePing/Introduction/Intro.html) for SPM.
 
 ## Installation
 
