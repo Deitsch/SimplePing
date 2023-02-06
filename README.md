@@ -7,5 +7,5 @@ The Package simply wraps [SimplePing](https://developer.apple.com/library/mac/sa
 In XCode click on File -> Add Packages -> paste the url
 
 ```swift
-.package(url: "https://github.com/Deitsch/SimplePing", branch: "master")
+.package(url: "https://github.com/Deitsch/SimplePing", branch: "main")
 ```
